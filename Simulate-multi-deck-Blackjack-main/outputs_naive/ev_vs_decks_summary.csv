@@ -1,3 +1,0 @@
-decks,policy,mean_ev,replicates,mean_win%,mean_draw%,mean_lose%
-1,naive,-0.059455,5,41.1893,9.3363,49.4744
-2,naive,-0.0586285,5,41.1277,9.5872,49.2851
