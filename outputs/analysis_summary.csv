@@ -1,0 +1,10 @@
+metric,value
+EV_stand_per_hand,-0.149244
+EV_hit_one_step_per_hand,-0.459290
+EV_hit_rollout_per_hand,-0.450397
+Win%_stand,39.161
+Draw%_stand,6.335
+Lose%_stand,54.504
+Win%_hit_one_step,24.647
+Draw%_hit_one_step,4.777
+Lose%_hit_one_step,70.576
